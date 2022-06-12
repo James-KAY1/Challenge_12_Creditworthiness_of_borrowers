@@ -47,7 +47,7 @@ First, the accuracy score is slightly higher for the resampling data (0.99 vs 0.
 
 The precision for the minority class is slightly higher with the orignal data (0.85) versus the resampling data (0.84) meaning that the original data was slightly better at detecting the high risk loans.
 
-In terms of the recall, however, the minority class metric using resampled data was much better (0.99 vs 0.91). Meaning that the resampled data correctly clasified a higher percentage of the truly high risk loans.
+In terms of the recall, however, the minority class metric using resampled data was much better (0.99 vs 0.91). Meaning that the resampled data correctly classified a higher percentage of the truly high risk loans.
 
 My recommendation, the model using resampled data was much better at identify the creditworthiness of borrowers than the model generated using the original, imbalanced dataset.
 
