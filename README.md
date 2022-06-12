@@ -1,5 +1,5 @@
 # Challenge_12_Creditworthiness_of_borrowers
-The challenge objective is to build a neural network model that can idenfity the creditworthiness of borrowers.
+The main objective of this challenge was to build a neural network model that was able to idenfity the creditworthiness of borrowers with a high accuracy.
 
 ---
 ## Technologies
@@ -58,7 +58,7 @@ My recommendation, the model using resampled data was much better at identify th
 
 ---
 
- **link to Jupyter notebook with the Neural Network**
+ **link to Jupyter notebook with the Neural Network model program**
 
  [Credit_Risk_Neural_Network_Algorithm](./Starter_Code%20(12)/Starter_Code/credit_risk_resampling.ipynb)
 
